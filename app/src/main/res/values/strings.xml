@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Taller1Paises</string>
+    <string name="text">Seleccione una región</string>
+    <string  name="textP">Listar paises</string>
 </resources>
